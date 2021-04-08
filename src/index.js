@@ -22,7 +22,7 @@ import Calc from './modules/Calc';
 import sendForm from './modules/sendForm';
 
 //timer
-countTimer('22 november 2020');
+countTimer('31 march 2021');
 //menu
 toggleMenu();
 //scroll menu
